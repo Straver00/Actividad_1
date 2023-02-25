@@ -13,6 +13,7 @@ public class Example_5 {
     public static void main(String[] args) {
         double r, l, a;
         Scanner entrada=new Scanner(System.in);
+        System.out.println("Di el radio del circulo: ");
         r=entrada.nextDouble();
         a=Math.pow(r,2)*Math.PI;
         l=2*Math.PI*r;
