@@ -1,1 +1,1 @@
-# Las actividades se encuentran en las branchs
+# Las actividades se encuentran en las branchs.
