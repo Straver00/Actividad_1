@@ -1,1 +1,2 @@
-# En cada branch se encuentra cada actividad
+# Actividad #2 - 18 de marzo del 2023
+
