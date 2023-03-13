@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Figuras_geometricas/Figuras_geometricas.iml" filepath="$PROJECT_DIR$/Figuras_geometricas/Figuras_geometricas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte3-Actividad 2/Parte3-Actividad 2.iml" filepath="$PROJECT_DIR$/Parte3-Actividad 2/Parte3-Actividad 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/University.iml" filepath="$PROJECT_DIR$/.idea/University.iml" />
+    </modules>
+  </component>
+</project>
