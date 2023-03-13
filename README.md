@@ -7,8 +7,8 @@
 <h4>Integrantes del grupo:</h4> 
 <ul>
   <li>Juan Esteban Cifuentes Castañeda <b>[Grupo 3]</b></li>
-  <li>Integrante #2</li>
-  <li>Integrante #3</li>
+  <li>Carlo Jose Quijano Valencia</li>
+  <li>Jennifer Gomez Sanchez3</li>
 </ul>
 
 <h4>Fecha de Entrega: 18 de Marzo 2023</h4> 
